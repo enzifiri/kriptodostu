@@ -17,20 +17,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kriptodostu&label=Profile%20views&color=0e75b6&style=flat" alt="kriptodostu" /> <a href="https://twitter.com/0xkriptodostu" target="blank"><img src="https://img.shields.io/twitter/follow/kriptodostu0?logo=twitter&style=for-the-badge" alt="kriptodostu0" /></a> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ruesandora&show_icons=true&theme=highcontrast" align="right" width="450" height="350" >
 
-- 🔭 I’m currently working on [developing my community](https://discord.gg/ruescommunity)
+
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Blokchain**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/ruesandora?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/kriptodostu?tab=repositories)
 
 - 📝 I regularly write articles on Layer-1 Blokchain
 
-- 💬 Ask me about [Telegram](https://t.me/Ruesandora) - [Twitter](https://twitter.com/Ruesandora0)
+- 💬 Ask me about 
 
-- 📫 How to reach me [Mail](ruesinfo@gmail.com)
+- 📫 How to reach me [Mail](kriptodostu@gmail.com)
 
-- 📄 Know about my experiences [Forum](https://forum.rues.info/index.php)
+- 📄 Know about my experiences [Forum](https://kriptodostu.com)
 
-- ⚡ Fun fact **Managing Community | produce content**
+- ⚡ Fun fact 
