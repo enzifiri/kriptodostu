@@ -1,3 +1,4 @@
+[![MasterHead](https://www.kriptodostu.com/wp-content/uploads/2022/06/logo-1.png)](https://kriptodostu.com)
 <h1 align="center">Hi 👋, I'm Kripto Dostu</h1>
 <h3 align="center">Cryptocurrency & Blockchain enthusiast, researcher. Node Runner"</h3>
 
