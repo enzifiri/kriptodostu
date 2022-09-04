@@ -20,11 +20,6 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 [![](https://visitcount.itsvg.in/api?id=kriptodostu&icon=1&color=2)](https://visitcount.itsvg.in)
 
-
-<h1 align="center">
- <img src="https://media.giphy.com/media/d6EHXrJlkd8IDIfdtL/giphy.gif" width="600" height="300" />
-</h1>
-
 ## Who I Am
 
 I met Cryptocurrencies 4 years ago, I’ve been doing Cryptocurrency and Blockchain research full time for 2 years.<br>
