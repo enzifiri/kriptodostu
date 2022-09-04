@@ -4,7 +4,7 @@
 </h1>
 <h3> <br>I met Cryptocurrencies 4 years ago, I’ve been doing Cryptocurrency and Blockchain research full time for 2 years.<br>I used to be a creator who made videos about cryptocurrencies. I was also running the Crypto community (About 8 Months)<br>I aim to improve myself in all areas of Blockchain. <br>That's why I've been to various conferences;<br><br>Gulf Blockchain Week UAE/Dubai<br>Trescon World Blockchain Summit UAE/Dubai<br>Blockchain Economy Istanbul TR/Istanbul<br><br> </h3>
 
-
+[![](https://visitcount.itsvg.in/api?id=kriptodostu&icon=1&color=2)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xkriptodostu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCWVxXSMiJzWEweYdFD4QKJg) 
 
@@ -16,6 +16,5 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kriptodostu&icon=1&color=2)](https://visitcount.itsvg.in)
-![logo-1](https://user-images.githubusercontent.com/76253089/188308136-6f78b48d-fdfc-4243-b5b6-4a27d124003c.png)
-![logo-1](https://user-images.githubusercontent.com/76253089/188308191-72551bee-17e0-4d87-9200-a9f7bb11a545.png)
+
+
