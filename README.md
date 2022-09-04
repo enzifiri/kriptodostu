@@ -29,11 +29,11 @@
 
 I met Cryptocurrencies 4 years ago, I’ve been doing Cryptocurrency and Blockchain research full time for 2 years.<br>
 I used to be a creator who made videos about cryptocurrencies. I was also running the Crypto community (About 8 Months)<br>
-I aim to improve myself in all areas of Blockchain.
-That's why I've been to various conferences;
-Gulf Blockchain Week UAE/Dubai
-Trescon World Blockchain Summit UAE/Dubai
-Blockchain Economy Istanbul TR/Istanbul </h3>
+I aim to improve myself in all areas of Blockchain.<br>
+That's why I've been to various conferences;<br><br>
+Gulf Blockchain Week UAE/Dubai<br>
+Trescon World Blockchain Summit UAE/Dubai<br>
+Blockchain Economy Istanbul TR/Istanbul </h3><br>
 
 
 ## How To Use
