@@ -21,27 +21,20 @@
 [![](https://visitcount.itsvg.in/api?id=kriptodostu&icon=1&color=2)](https://visitcount.itsvg.in)
 
 
-<iframe src="https://giphy.com/embed/d6EHXrJlkd8IDIfdtL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Jibrel-hardware-hash-jibrel-d6EHXrJlkd8IDIfdtL">via GIPHY</a></p>
+<h1 align="center">
+ <img src="https://giphy.com/gifs/Jibrel-hardware-hash-jibrel-d6EHXrJlkd8IDIfdtL" />
+</h1>
 
 ## Who I Am
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+I met Cryptocurrencies 4 years ago, I’ve been doing Cryptocurrency and Blockchain research full time for 2 years.
+I used to be a creator who made videos about cryptocurrencies. I was also running the Crypto community (About 8 Months)<br>
+I aim to improve myself in all areas of Blockchain.
+That's why I've been to various conferences;
+Gulf Blockchain Week UAE/Dubai
+Trescon World Blockchain Summit UAE/Dubai
+Blockchain Economy Istanbul TR/Istanbul </h3>
+
 
 ## How To Use
 
