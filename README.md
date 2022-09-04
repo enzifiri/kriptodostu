@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.kriptodostu.com"><img src="https://user-images.githubusercontent.com/76253089/188309130-edc4cad8-a501-4964-b243-2691480baf10.jpg" alt="KriptoDostu" width="200"></a>
+  <a href="http://www.kriptodostu.com"><img src="https://user-images.githubusercontent.com/76253089/188309130-edc4cad8-a501-4964-b243-2691480baf10.jpg" alt="KriptoDostu" width="300"></a>
   <br>
   Kripto Dostu
   <br>
