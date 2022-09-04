@@ -121,6 +121,4 @@ MIT
 > [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
 > GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
 > Twitter [@amit_merchant](https://twitter.com/amit_merchant)
-![vUTt-DlS_400x400](https://user-images.githubusercontent.com/76253089/188309130-edc4cad8-a501-4964-b243-2691480baf10.jpg)
-![vUTt-DlS_400x402](https://user-images.githubusercontent.com/76253089/188309304-8665a23c-bcf8-405a-a0fa-e216915586b6.jpg)
 
