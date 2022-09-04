@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.kriptodostu.com"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="http://www.kriptodostu.com"><img src="https://user-images.githubusercontent.com/76253089/188309130-edc4cad8-a501-4964-b243-2691480baf10.jpg" alt="KriptoDostu" width="200"></a>
   <br>
   Kripto Dostu
   <br>
@@ -121,4 +121,5 @@ MIT
 > [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
 > GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
 > Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+![vUTt-DlS_400x400](https://user-images.githubusercontent.com/76253089/188309130-edc4cad8-a501-4964-b243-2691480baf10.jpg)
 
