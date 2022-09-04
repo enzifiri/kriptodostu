@@ -7,9 +7,9 @@
   <br>
 </h1>
 
-<h4 align="center">Cryptocurrency, Blockchain, NFT, P2E,<a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">Cryptocurrency, Blockchain, NFT, P2E </h4>
 
-
+[![](https://visitcount.itsvg.in/api?id=kriptodostu&icon=1&color=2)](https://visitcount.itsvg.in)
  # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -21,7 +21,7 @@
 
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
+  <a href="#who-ı-am">Who I Am</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
@@ -31,7 +31,7 @@
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
-## Key Features
+## Who I Am
 
 * LivePreview - Make changes, See changes
   - Instantly see what your Markdown documents look like in HTML as you create them.
