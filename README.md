@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">Cryptocurrency, Blockchain, NFT, P2E,<a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
 
 
  # 💻 Tech Stack:
