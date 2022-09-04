@@ -27,7 +27,7 @@
 
 ## Who I Am
 
-I met Cryptocurrencies 4 years ago, I’ve been doing Cryptocurrency and Blockchain research full time for 2 years.
+I met Cryptocurrencies 4 years ago, I’ve been doing Cryptocurrency and Blockchain research full time for 2 years.<br>
 I used to be a creator who made videos about cryptocurrencies. I was also running the Crypto community (About 8 Months)<br>
 I aim to improve myself in all areas of Blockchain.
 That's why I've been to various conferences;
