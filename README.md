@@ -22,7 +22,7 @@
 
 
 <h1 align="center">
- <img src="https://media.giphy.com/media/d6EHXrJlkd8IDIfdtL/giphy.gif" />
+ <img src="https://media.giphy.com/media/d6EHXrJlkd8IDIfdtL/giphy.gif" width="300" height="250" />
 </h1>
 
 ## Who I Am
