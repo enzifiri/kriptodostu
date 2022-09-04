@@ -2,7 +2,7 @@
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/76253089/188308191-72551bee-17e0-4d87-9200-a9f7bb11a545.png" />
 </h1>
-<br>I met Cryptocurrencies 4 years ago, I’ve been doing Cryptocurrency and Blockchain research full time for 2 years.<br>I used to be a creator who made videos about cryptocurrencies. I was also running the Crypto community (About 8 Months)<br>I aim to improve myself in all areas of Blockchain. <br>That's why I've been to various conferences;<br><br>Gulf Blockchain Week UAE/Dubai<br>Trescon World Blockchain Summit UAE/Dubai<br>Blockchain Economy Istanbul TR/Istanbul<br><br>
+<h3> <br>I met Cryptocurrencies 4 years ago, I’ve been doing Cryptocurrency and Blockchain research full time for 2 years.<br>I used to be a creator who made videos about cryptocurrencies. I was also running the Crypto community (About 8 Months)<br>I aim to improve myself in all areas of Blockchain. <br>That's why I've been to various conferences;<br><br>Gulf Blockchain Week UAE/Dubai<br>Trescon World Blockchain Summit UAE/Dubai<br>Blockchain Economy Istanbul TR/Istanbul<br><br> </h3>
 
 
 ## 🌐 Socials:
