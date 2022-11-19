@@ -30,7 +30,4 @@ Gulf Blockchain Week UAE/Dubai<br>
 Trescon World Blockchain Summit UAE/Dubai<br>
 Blockchain Economy Istanbul TR/Istanbul </h3><br>
 
-## Social & Contact
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaferayan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc1vykhlufpaoghrwhjikrqg" height="30" width="40" /></a>
 <h3> Mail : kriptodostu@gmail.com </h3>
