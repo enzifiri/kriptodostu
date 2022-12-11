@@ -31,6 +31,13 @@ Blockchain Economy Istanbul TR/Istanbul
 
 <br/>  
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=kriptodostu&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
 
 ## Languages and Tools  
 <div align="center">  
@@ -57,20 +64,13 @@ Blockchain Economy Istanbul TR/Istanbul
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kriptodostu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kriptodostu&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
 </td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriptodostu&hide_border=true&layout=compact" align="left" />
 
 </td></tr></table>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=kriptodostu&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
 
