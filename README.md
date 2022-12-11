@@ -2,9 +2,11 @@
   
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/76253089/188309383-f2e7bc4d-b814-4d2a-b2a8-3a7defc261be.jpg" align="center" height="300" width="300" />
+<img src="https://user-images.githubusercontent.com/76253089/188309383-f2e7bc4d-b814-4d2a-b2a8-3a7defc261be.jpg" align="center" height="350" width="350" />
 </div>  
   
+
+<br>
 
 <div align="center">
 <a href="https://github.com/kriptodostu" target="_blank">
@@ -13,9 +15,11 @@
 <a href="https://twitter.com/en_zifiri" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
 
+</div>  
+<div align="center">  
+  Mail: kriptodostu@gmail.com
+</div> 
 
 
 ### ...  
@@ -84,4 +88,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
