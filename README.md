@@ -21,7 +21,7 @@
  Mail: kriptodostu@gmail.com 
 </div> 
 <div align="center">  
-  <h2> <a href="https://www.enzifiri.me" target="_blank">Enzifiri, Blog & Contact</a> </h2>
+  <h2> <a href="https://www.enzifiri.me" target="_blank" >Enzifiri, Blog & Contact</a> </h2>
 </div> 
 
 ### ...  
