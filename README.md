@@ -18,11 +18,10 @@
 
 </div>  
 <div align="center">  
-  Mail: kriptodostu@gmail.com
+ <h2> Mail: kriptodostu@gmail.com <h2>
 </div> 
-
 <div align="center">  
-<a href= ″http://www.enzifiri.me″ target=”_blank”  > Enzifiri.me </a>
+  <h2> <a href="https://www.enzifiri.me" target="_blank">Enzifiri, Blog & Contact</a> </h2>
 </div> 
 
 ### ...  
